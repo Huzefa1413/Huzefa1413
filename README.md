@@ -12,7 +12,7 @@
 - 📫 How to reach me **huzefamustafa1413@gmail.com**
 
 <h3 align="left">View my Projects:</h3>
-<p align="left">https://assignments-smit-215c8.web.app/</p>
+<p align="left"><a href="https://assignments-smit-215c8.web.app/" target="blank"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

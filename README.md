@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **huzefamustafa1413@gmail.com**
 
-<h3 align="left">View my Projects:</h3>
+<h3 align="left">View My Web Development Projects:</h3>
 <p align="left"><a href="https://assignments-smit-215c8.web.app/" target="_blank" rel="noreferrer"> Click here to see my projects...</a></p>
-
+<h3 align="left">View My AI and ML Projects:</h3>
+<p align="left"><a href="https://lovely-pegasus-0ebea2.netlify.app/" target="_blank" rel="noreferrer"> Click here to see my projects...</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/huzefa-mustafa-131636264" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzefa mustafa" height="30" width="40" /></a>

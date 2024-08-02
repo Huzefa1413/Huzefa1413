@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Huzefa Mustafa<h1>
-<h3 align="center">Passionate Aspiring Machine Learning Engineer Eager to Contribute and Learn</h3>
+<h1 align="center">Hi, I'm Huzefa Mustafa</h1>
+<h3 align="center">Passionate Front-End Developer Eager to Contribute and Learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzefa1413&label=Profile%20views&color=0e75b6&style=flat" alt="huzefa1413" /> </p>
 
@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Front-End Development** and **Web Technologies**
 
 - 📫 How to reach me **huzefamustafa1413@gmail.com**
 
 <h3 align="left">View My Web Development Projects:</h3>
-<p align="left"><a href="https://assignments-smit-215c8.web.app/" target="_blank" rel="noreferrer"> Click here to see my projects...</a></p>
+<p align="left"><a href="https://resonant-pothos-e4dc3c.netlify.app/" target="_blank" rel="noreferrer"> Click here to see my projects...</a></p>
 <h3 align="left">View My AI and ML Projects:</h3>
 <p align="left"><a href="https://lovely-pegasus-0ebea2.netlify.app/" target="_blank" rel="noreferrer"> Click here to see my projects...</a></p>
 <h3 align="left">Connect with me:</h3>
